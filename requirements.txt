@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 openai
 python-docx
+reportlab
+groq
